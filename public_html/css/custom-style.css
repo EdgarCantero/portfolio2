@@ -12,7 +12,10 @@ div {
 .row{
     border-color: red;
 }
-img{
-    width: 200px;
-    height: auto;
+
+#h1{
+    background-image: url("http://fc00.deviantart.net/fs71/i/2014/002/5/1/cm___gun_gale_online__ggo__by_riki_to_d6dlg7t_by_savageone666-d70lngq.jpg");
+        background-repeat: no-repeat;
+        background-size: 1370px;
+        border-color: #269abc
 }
