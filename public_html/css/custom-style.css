@@ -19,3 +19,16 @@ div {
         background-size: 1370px;
         border-color: #269abc
 }
+
+#h3{
+  background-image: url("http://cdn.wonderfulengineering.com/wp-content/uploads/2014/04/space-wallpapers-3.jpg");
+        background-repeat: no-repeat;
+        background-size: 1370px;
+        border-color: red
+}
+
+#h2{
+    background-image: url("http://img3.wikia.nocookie.net/__cb20130718142935/the-rp-fear/images/0/00/Three_Dimensional_Maneuver_Gear_Mechanics_Part_3.jpg");
+        background-size: 1370px;
+        background-repeat: no-repeat;
+}
